@@ -1,0 +1,117 @@
+absl-py==2.1.0
+aiohttp==3.9.5
+aiosignal==1.3.1
+astor==0.8.1
+astunparse==1.6.3
+async-timeout==4.0.3
+attrs==23.2.0
+Brotli @ file:///tmp/abs_ecyw11_7ze/croots/recipe/brotli-split_1659616059936/work
+cachetools==5.3.3
+certifi @ file:///croot/certifi_1700501669400/work/certifi
+cffi @ file:///croot/cffi_1700254295673/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cloudpickle==3.0.0
+colorama==0.4.6
+contextlib2==21.6.0
+contourpy==1.2.0
+cryptography @ file:///croot/cryptography_1702070282333/work
+cycler==0.12.1
+et-xmlfile==1.1.0
+filelock==3.11.0
+flatbuffers==1.12
+fonttools==4.46.0
+frozenlist==1.4.1
+fsspec==2023.12.2
+gast==0.4.0
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645438755360/work
+google-auth==2.31.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.64.1
+h5py==3.11.0
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata==7.0.0
+importlib-resources==6.1.1
+Jinja2 @ file:///croot/jinja2_1666908132255/work
+joblib==1.3.2
+json-tricks==3.17.3
+keras==2.9.0
+Keras-Preprocessing==1.1.2
+kiwisolver==1.4.5
+libclang==18.1.1
+lightning-utilities==0.11.2
+littleutils==0.2.2
+Markdown==3.6
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+matplotlib==3.8.2
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+multidict==6.0.5
+networkx @ file:///croot/networkx_1690561992265/work
+nni==3.0
+numpy @ file:///croot/numpy_and_numpy_base_1701295038894/work/dist/numpy-1.26.2-cp39-cp39-linux_x86_64.whl#sha256=ab2439928d6a64e481fc12c271cde207be02e933033d4fecde57d3e534b5025c
+nvidia-ml-py==12.535.133
+oauthlib==3.2.2
+ogb==1.3.6
+openpyxl==3.1.2
+opt-einsum==3.3.0
+outdated==0.2.2
+packaging==23.2
+pandas==2.1.4
+Pillow @ file:///croot/pillow_1696580024257/work
+prettytable==3.9.0
+protobuf==3.19.6
+psutil==5.9.6
+pyasn1==0.6.0
+pyasn1_modules==0.4.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyg-lib==0.3.1+pt21cu121
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.1.1
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil==2.8.2
+PythonWebHDFS==0.2.3
+pytorch-lightning==2.1.0
+pytz==2023.3.post1
+PyYAML @ file:///croot/pyyaml_1698096049011/work
+requests @ file:///croot/requests_1690400202158/work
+requests-oauthlib==2.0.0
+responses==0.24.1
+rsa==4.9
+schema==0.7.5
+scikit-learn==1.3.2
+scipy==1.11.4
+simplejson==3.19.2
+six==1.16.0
+sympy @ file:///croot/sympy_1701397643339/work
+tensorboard==2.9.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow-estimator==2.9.0
+tensorflow-gpu @ file:///home/fsy/package/tensorflow_gpu-2.9.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl#sha256=5296b966eb714aff4c2fe0b394ce989ceda7f27ad1a452df320545dc528c6166
+tensorflow-io-gcs-filesystem==0.37.1
+termcolor==2.4.0
+threadpoolctl==3.2.0
+torch @ file:///home/fsy/package/torch-2.1.1%2Bcu121-cp39-cp39-linux_x86_64.whl#sha256=28245f62d1073c27d6f0de03a81ad49d5333c4606591ed88fed1edb97f05533d
+torch-cluster @ file:///home/fsy/package/torch_cluster-1.6.2%2Bpt21cu121-cp39-cp39-linux_x86_64.whl#sha256=02c324edfef734cebd3ba82e4bead1aa0d34b666d4804cf6d8b581200ed18b30
+torch-scatter @ file:///home/fsy/package/torch_scatter-2.1.2%2Bpt21cu121-cp39-cp39-linux_x86_64.whl#sha256=f840d3d1234b7f8185ffdddaa37daa42c53b782fd884ed6aa77a3ce89e7e5cc1
+torch-sparse @ file:///home/fsy/package/torch_sparse-0.6.18%2Bpt21cu121-cp39-cp39-linux_x86_64.whl#sha256=750dbc13f3f0897bdf02bda1226d2a4b156427978fd4a44445c751271ef597e6
+torch-spline-conv @ file:///home/fsy/package/torch_spline_conv-1.2.2%2Bpt21cu121-cp39-cp39-linux_x86_64.whl#sha256=4f181a6cac96465b83c5c46174ca1aef6133d0aa2e3efbc82d4437c48fd47fb4
+torch_geometric==2.4.0
+torchaudio @ file:///home/fsy/package/torchaudio-2.1.1%2Bcu121-cp39-cp39-linux_x86_64.whl#sha256=e18747d6675ec3e4c59afa40db72e9e7ea4d715cb92b143da55df59613c03d30
+torchmetrics==1.4.0.post0
+torchvision @ file:///home/fsy/package/torchvision-0.16.1%2Bcu121-cp39-cp39-linux_x86_64.whl#sha256=d6fa0bc8832705923d90195ec9bf35f488705b49c01448b3702cb7b7d79b54f9
+tqdm==4.66.1
+triton==2.1.0
+typeguard==4.1.2
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+tzdata==2023.3
+urllib3 @ file:///croot/urllib3_1698257533958/work
+wcwidth==0.2.12
+websockets==12.0
+Werkzeug==3.0.3
+wrapt==1.16.0
+yarl==1.9.4
+zipp==3.17.0
